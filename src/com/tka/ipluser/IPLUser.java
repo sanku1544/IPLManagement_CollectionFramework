@@ -40,44 +40,6 @@ public class IPLUser {
 				System.out.println("Higest runner: "+p.getName()+" Runs: "+p.getRuns()+" Tname: "+p.getTname());
 			}
 		}
-	//	System.out.println("----------------------------------------------");
-		//allplayers.forEach(n->System.out.println(n.getName()));
-		
-//		for(Player p:allplayers) {
-//			System.out.println(p.getName());
-//		}
-//		System.out.println("----------------------------------------------");
 
-//		for(Player p:allplayers1) {
-//			System.out.println(p.getName());
-//		}
-//		System.out.println("----------------------------------------------");
-//
-//		for(Player p:allplayers2) {
-//			System.out.println(p.getName()+" :- "+p.getTname()+" Runs: "+p.getRuns());
-//		}
-//		System.out.println("----------------------------------------------");
-//
-//		for(Player p:allplayers3) {
-//			System.out.println(p.getName()+" : "+p.getTname());
-//		}
-//		System.out.println("----------------------------------------------");
-//		for(Player p:allplayers) {
-//			if(p.getWickets()==allplayers4) {
-//				
-//				System.out.println("HighestWicket tacker: "+p.getName()+" Wickets: "+p.getRuns()+" Tname: "+p.getTname());
-//			}
-//		}
-//		System.out.println("----------------------------------------------");
-//		for(Player p:allplayers5) {
-//			System.out.println("AllRounder: "+p.getName()+" Tname: "+p.getTname());
-//		}
-//		System.out.println("----------------------------------------------");
-//		for(Player p:allplayers) {
-//			if(p.getRuns()==allplayers6) {
-//				
-//				System.out.println("Higest runner: "+p.getName()+" Runs: "+p.getRuns()+" Tname: "+p.getTname());
-//			}
-//		}
 	}
 }
