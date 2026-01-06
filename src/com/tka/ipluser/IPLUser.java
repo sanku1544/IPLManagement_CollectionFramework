@@ -1,9 +1,8 @@
 package com.tka.ipluser;
 
-import java.util.List;
-
 import com.tka.entity.Player;
 import com.tka.iplcontroller.IPLController;
+import java.util.List;
 
 public class IPLUser {
 	public static void main(String[] args) {
@@ -40,6 +39,6 @@ public class IPLUser {
 				System.out.println("Higest runner: "+p.getName()+" Runs: "+p.getRuns()+" Tname: "+p.getTname());
 			}
 		}
-
+  
 	}
 }
